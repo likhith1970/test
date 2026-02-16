@@ -3,6 +3,7 @@ package Test3;
 public class dots {
 
 	public static void main(String[] args) {
+		System.out.println("___________________");
 		for (int i = 0; i <= 5; i++) {
 	        for (int j = 0; j <= i; j++) {
 	            System.out.print('*');
